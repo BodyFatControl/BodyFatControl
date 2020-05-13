@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56467418918",
+    "firebase_url": "https://bodyfatcontrol-6c1e6.firebaseio.com",
+    "project_id": "bodyfatcontrol-6c1e6",
+    "storage_bucket": "bodyfatcontrol-6c1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56467418918:android:64f86a65374fcd57c0dbe7",
+        "android_client_info": {
+          "package_name": "com.patriciaaleixo.bodyfatcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56467418918-kls8vl4mqamm87qsce3ef2en9cqht4v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patriciaaleixo.bodyfatcontrol",
+            "certificate_hash": "2c8b6d8894d428ace922a8f28a5fe9be367bd691"
+          }
+        },
+        {
+          "client_id": "56467418918-nurrv2p2e70jg532glc339sv3qnucaj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnwp1heKy9n4rrH0qYvEgdzY5IgUBhg9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56467418918-nurrv2p2e70jg532glc339sv3qnucaj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
